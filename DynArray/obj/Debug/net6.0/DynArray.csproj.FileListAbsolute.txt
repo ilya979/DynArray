@@ -1,0 +1,15 @@
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\DynArray.csproj.AssemblyReference.cache
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\DynArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\DynArray.AssemblyInfoInputs.cache
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\DynArray.AssemblyInfo.cs
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\DynArray.csproj.CoreCompileInputs.cache
+C:\Users\ibaikov\source\repos\DynArray\DynArray\bin\Debug\net6.0\DynArray.exe
+C:\Users\ibaikov\source\repos\DynArray\DynArray\bin\Debug\net6.0\DynArray.deps.json
+C:\Users\ibaikov\source\repos\DynArray\DynArray\bin\Debug\net6.0\DynArray.runtimeconfig.json
+C:\Users\ibaikov\source\repos\DynArray\DynArray\bin\Debug\net6.0\DynArray.dll
+C:\Users\ibaikov\source\repos\DynArray\DynArray\bin\Debug\net6.0\DynArray.pdb
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\DynArray.dll
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\refint\DynArray.dll
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\DynArray.pdb
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\DynArray.genruntimeconfig.cache
+C:\Users\ibaikov\source\repos\DynArray\DynArray\obj\Debug\net6.0\ref\DynArray.dll
